@@ -8,10 +8,10 @@ The implementation for GPF
 * Matlab 2018 +
 
 ## Preparation before operation
-Enter the 'lib' folder and compile the 'project.cpp'
+Enter the 'lib' folder and compile the 'projection.cpp'
 ```
 cd lib
-mex project.cpp
+mex projection.cpp
 ```
 ## Test GPF
 Run 'demo.m'
