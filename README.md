@@ -65,13 +65,16 @@ To run GPF on your own dataset:
 
 If you use this code in your research, please cite our paper:
 ```
-@article{li2025graph,
-  title={Graph Proxy Fusion: Consensus Graph Intermediated Multi-View Local Information Fusion Clustering},
+@ARTICLE{li2025graph,
   author={Li, Haoran and Guo, Yulan and You, Jiali and You, Xiaojian and Ren, Zhenwen},
-  journal={IEEE Transactions on Multimedia},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Graph Proxy Fusion: Consensus Graph Intermediated Multi-View Local Information Fusion Clustering}, 
   year={2025},
-  doi={10.1109/TMM.2024.3521803}
-}
+  volume={27},
+  number={},
+  pages={1736-1747},
+  keywords={Correlation;Ions;Fuses;Optimization;Kernel;Excavation;Bipartite graph;Tensors;Benchmark testing;Vectors;Graph proxy fusion;multi-view clustering;graph algorithm;graph embedding},
+  doi={10.1109/TMM.2024.3521803}}
 ```
 
 ## Contact
