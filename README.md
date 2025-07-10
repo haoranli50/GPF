@@ -1,6 +1,7 @@
 # Graph Proxy Fusion (GPF): Consensus Graph Intermediated Multi-view Local Information Fusion Clustering
 
 This repository contains the implementation of the GPF algorithm as presented in our paper. GPF is a novel multi-view clustering method that effectively preserves and fuses view-specific local information through a unified framework.
+![](figure.png)
 
 ## Table of Contents
 - [Overview](#overview)
